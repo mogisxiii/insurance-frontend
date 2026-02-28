@@ -1,0 +1,268 @@
+/* ===== RESET ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background: #111827;
+}
+
+/* ===== APP CONTAINER ===== */
+.app-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background:
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("./assets/bg.jpg") center/cover no-repeat;
+}
+
+/* ===== CHAT WRAPPER ===== */
+.chat-wrapper {
+  width: 420px;
+  height: 90vh;
+  background: #0f172a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.6);
+}
+
+/* ===== HEADER ===== */
+.chat-header {
+  background: #1e293b;
+  padding: 16px;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+/* ===== CHAT BODY ===== */
+.chat-body {
+  flex: 1;
+  padding: 16px;
+  overflow-y: auto;
+  background: transparent;
+}
+
+/* Scrollbar */
+.chat-body::-webkit-scrollbar {
+  width: 5px;
+}
+.chat-body::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.15);
+  border-radius: 10px;
+}
+
+/* ===== MESSAGE ===== */
+.message {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.message.user {
+  justify-content: flex-end;
+}
+
+.message.ai {
+  justify-content: flex-start;
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 10px 14px;
+  font-size: 14px;
+  border-radius: 18px;
+  line-height: 1.4;
+}
+
+/* USER bubble giống Messenger */
+.message.user .bubble {
+  background: #2563eb;
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+/* AI bubble */
+.message.ai .bubble {
+  background: #1f2937;
+  color: white;
+  border-bottom-left-radius: 4px;
+}
+
+/* ===== TYPING DOTS ===== */
+.typing {
+  display: flex;
+  gap: 5px;
+  padding: 6px 0;
+}
+
+.typing span {
+  width: 7px;
+  height: 7px;
+  background: #94a3b8;
+  border-radius: 50%;
+  animation: blink 1.4s infinite both;
+}
+
+.typing span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.typing span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes blink {
+  0% { opacity: 0.3; }
+  20% { opacity: 1; }
+  100% { opacity: 0.3; }
+}
+
+/* ===== INPUT ===== */
+.chat-input {
+  display: flex;
+  padding: 12px;
+  background: #1e293b;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 10px 14px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+}
+
+.chat-input button {
+  margin-left: 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 0 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.chat-input button:hover {
+  background: #1d4ed8;
+}
+
+/* ===== HEADER ENTERPRISE ===== */
+.chat-header {
+  padding: 16px;
+  background: #1e293b;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.header-title {
+  font-weight: 600;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: white;
+}
+
+.header-sub {
+  font-size: 12px;
+  color: #94a3b8;
+  margin-top: 3px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  background: #22c55e;
+  border-radius: 50%;
+  box-shadow: 0 0 6px #22c55e;
+}
+
+/* ===== TIMESTAMP ===== */
+.timestamp {
+  font-size: 10px;
+  opacity: 0.6;
+  margin-top: 4px;
+  text-align: right;
+}
+
+/* ===== AVATAR ===== */
+.avatar-ai {
+  width: 36px;
+  height: 36px;
+  background: #2563eb;
+  color: white;
+  font-weight: bold;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+/* ===== HEADER FLEX ===== */
+.chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.theme-toggle {
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+/* ===== MESSAGE ANIMATION ===== */
+.animate-in {
+  animation: fadeInUp 0.25s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ===== READ RECEIPT ===== */
+.read {
+  font-size: 10px;
+  opacity: 0.7;
+}
+
+/* ===== LIGHT MODE ===== */
+.app-container.light {
+  background: #f1f5f9;
+}
+
+.app-container.light .chat-wrapper {
+  background: white;
+}
+
+.app-container.light .message.ai .bubble {
+  background: #e2e8f0;
+  color: black;
+}
+
+.app-container.light .chat-input {
+  background: #f8fafc;
+}
