@@ -1,0 +1,114 @@
+[
+{
+"year":2001,
+"project":"Mở rộng Quốc lộ 1A đoạn qua TP.HCM",
+"type":"highway",
+"impact_area":["Bình Tân","Quận 12","Thủ Đức"],
+"description":"Mở rộng tuyến giao thông huyết mạch phía Tây và Bắc thành phố"
+},
+{
+"year":2003,
+"project":"Cầu Phú Mỹ (khởi công)",
+"type":"bridge",
+"impact_area":["Quận 7","Thủ Đức","Quận 2"],
+"description":"Kết nối khu Nam với khu Đông TP.HCM"
+},
+{
+"year":2007,
+"project":"Cầu Phú Mỹ (hoàn thành)",
+"type":"bridge",
+"impact_area":["Quận 7","Thủ Đức","Quận 2"],
+"description":"Tăng mạnh giá đất khu Phú Mỹ Hưng và khu Đông"
+},
+{
+"year":2008,
+"project":"Đại lộ Đông Tây (nay là Võ Văn Kiệt)",
+"type":"highway",
+"impact_area":["Quận 1","Quận 5","Quận 6","Quận 8","Bình Tân"],
+"description":"Trục giao thông Đông Tây quan trọng của thành phố"
+},
+{
+"year":2010,
+"project":"Hầm Thủ Thiêm",
+"type":"tunnel",
+"impact_area":["Quận 1","Thủ Đức"],
+"description":"Kết nối trung tâm Quận 1 với khu đô thị Thủ Thiêm"
+},
+{
+"year":2011,
+"project":"Xa lộ Hà Nội mở rộng",
+"type":"highway",
+"impact_area":["Thủ Đức","Quận 2","Dĩ An"],
+"description":"Gia tăng giá đất khu Thảo Điền, An Phú"
+},
+{
+"year":2012,
+"project":"Cầu Sài Gòn 2",
+"type":"bridge",
+"impact_area":["Bình Thạnh","Thủ Đức"],
+"description":"Giảm tải cầu Sài Gòn và tăng kết nối khu Đông"
+},
+{
+"year":2013,
+"project":"Đường Phạm Văn Đồng",
+"type":"boulevard",
+"impact_area":["Bình Thạnh","Thủ Đức","Gò Vấp"],
+"description":"Đại lộ đẹp nhất TP.HCM, tăng giá mạnh khu Linh Trung và Hiệp Bình Chánh"
+},
+{
+"year":2015,
+"project":"Khu đô thị Thủ Thiêm bắt đầu phát triển",
+"type":"urban",
+"impact_area":["Thủ Đức"],
+"description":"Tạo hiệu ứng tăng giá toàn bộ khu Đông"
+},
+{
+"year":2016,
+"project":"Cao tốc TP.HCM – Long Thành – Dầu Giây",
+"type":"highway",
+"impact_area":["Thủ Đức","Quận 2"],
+"description":"Thúc đẩy phát triển bất động sản khu Đông"
+},
+{
+"year":2018,
+"project":"Khởi công Metro Line 1",
+"type":"metro",
+"impact_area":["Quận 1","Bình Thạnh","Thủ Đức"],
+"description":"Gia tăng giá đất dọc tuyến metro"
+},
+{
+"year":2020,
+"project":"Thành lập TP Thủ Đức",
+"type":"administrative",
+"impact_area":["Thủ Đức"],
+"description":"Hợp nhất Quận 2, Quận 9, Thủ Đức thành thành phố mới"
+},
+{
+"year":2021,
+"project":"Vành đai 3 TP.HCM (khởi động)",
+"type":"ringroad",
+"impact_area":["Thủ Đức","Bình Chánh","Củ Chi","Hóc Môn"],
+"description":"Tạo động lực phát triển vùng ven"
+},
+{
+"year":2023,
+"project":"Mở rộng sân bay Tân Sơn Nhất",
+"type":"airport",
+"impact_area":["Tân Bình","Gò Vấp"],
+"description":"Gia tăng giá đất khu gần sân bay"
+},
+{
+"year":2024,
+"project":"Metro Line 1 vận hành thử",
+"type":"metro",
+"impact_area":["Quận 1","Bình Thạnh","Thủ Đức"],
+"description":"Tăng mạnh giá đất dọc tuyến metro"
+},
+{
+"year":2025,
+"project":"Hoàn thiện một phần Vành đai 3",
+"type":"ringroad",
+"impact_area":["Củ Chi","Hóc Môn","Thủ Đức"],
+"description":"Thúc đẩy giá đất vùng ven"
+}
+]

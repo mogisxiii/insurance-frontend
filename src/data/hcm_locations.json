@@ -1,0 +1,1051 @@
+[
+{
+"name":"Quận 1",
+"slug":"quan-1",
+"type":"district",
+"lat":10.7769,
+"lng":106.7009,
+"aliases":["q1","district 1","quan mot"],
+"population":142000,
+"area_km2":7.72
+},
+{
+"name":"Quận 3",
+"slug":"quan-3",
+"type":"district",
+"lat":10.7842,
+"lng":106.6881,
+"aliases":["q3","district 3"],
+"population":190000,
+"area_km2":4.92
+},
+{
+"name":"Quận 4",
+"slug":"quan-4",
+"type":"district",
+"lat":10.7571,
+"lng":106.7055,
+"aliases":["q4","district 4"],
+"population":175000,
+"area_km2":4.18
+},
+{
+"name":"Quận 5",
+"slug":"quan-5",
+"type":"district",
+"lat":10.7540,
+"lng":106.6638,
+"aliases":["q5","district 5"],
+"population":159000,
+"area_km2":4.27
+},
+{
+"name":"Quận 6",
+"slug":"quan-6",
+"type":"district",
+"lat":10.7480,
+"lng":106.6353,
+"aliases":["q6","district 6"],
+"population":233000,
+"area_km2":7.14
+},
+{
+"name":"Quận 7",
+"slug":"quan-7",
+"type":"district",
+"lat":10.7340,
+"lng":106.7210,
+"aliases":["q7","district 7"],
+"population":360000,
+"area_km2":35.69
+},
+{
+"name":"Quận 8",
+"slug":"quan-8",
+"type":"district",
+"lat":10.7240,
+"lng":106.6360,
+"aliases":["q8","district 8"],
+"population":424000,
+"area_km2":19.11
+},
+{
+"name":"Quận 10",
+"slug":"quan-10",
+"type":"district",
+"lat":10.7740,
+"lng":106.6675,
+"aliases":["q10","district 10"],
+"population":235000,
+"area_km2":5.72
+},
+{
+"name":"Quận 11",
+"slug":"quan-11",
+"type":"district",
+"lat":10.7628,
+"lng":106.6505,
+"aliases":["q11","district 11"],
+"population":209000,
+"area_km2":5.14
+},
+{
+"name":"Quận 12",
+"slug":"quan-12",
+"type":"district",
+"lat":10.8672,
+"lng":106.6416,
+"aliases":["q12","district 12"],
+"population":620000,
+"area_km2":52.74
+},
+{
+"name":"Bình Thạnh",
+"slug":"binh-thanh",
+"type":"district",
+"lat":10.8030,
+"lng":106.7070,
+"aliases":["quan binh thanh","binh thanh district"],
+"population":499000,
+"area_km2":20.78
+},
+{
+"name":"Tân Bình",
+"slug":"tan-binh",
+"type":"district",
+"lat":10.8016,
+"lng":106.6527,
+"aliases":["tan binh district"],
+"population":474000,
+"area_km2":22.38
+},
+{
+"name":"Tân Phú",
+"slug":"tan-phu",
+"type":"district",
+"lat":10.7900,
+"lng":106.6280,
+"aliases":["tan phu district"],
+"population":485000,
+"area_km2":16.06
+},
+{
+"name":"Gò Vấp",
+"slug":"go-vap",
+"type":"district",
+"lat":10.8387,
+"lng":106.6653,
+"aliases":["go vap district"],
+"population":676000,
+"area_km2":19.74
+},
+{
+"name":"Phú Nhuận",
+"slug":"phu-nhuan",
+"type":"district",
+"lat":10.7990,
+"lng":106.6800,
+"aliases":["phu nhuan district"],
+"population":163000,
+"area_km2":4.88
+},
+{
+"name":"Bình Tân",
+"slug":"binh-tan",
+"type":"district",
+"lat":10.7653,
+"lng":106.6037,
+"aliases":["binh tan district"],
+"population":784000,
+"area_km2":52.02
+},
+{
+"name":"TP Thủ Đức",
+"slug":"thu-duc",
+"type":"city",
+"lat":10.8231,
+"lng":106.6297,
+"aliases":["thu duc city","district thu duc"],
+"population":1200000,
+"area_km2":211.56
+},
+{
+"name":"Huyện Nhà Bè",
+"slug":"nha-be",
+"type":"district",
+"lat":10.6953,
+"lng":106.7215,
+"aliases":["nha be district"],
+"population":206000,
+"area_km2":100.43
+},
+{
+"name":"Huyện Bình Chánh",
+"slug":"binh-chanh",
+"type":"district",
+"lat":10.6890,
+"lng":106.5950,
+"aliases":["binh chanh district"],
+"population":705000,
+"area_km2":253.69
+},
+{
+"name":"Huyện Hóc Môn",
+"slug":"hoc-mon",
+"type":"district",
+"lat":10.8890,
+"lng":106.5930,
+"aliases":["hoc mon district"],
+"population":462000,
+"area_km2":109.17
+},
+{
+"name":"Huyện Củ Chi",
+"slug":"cu-chi",
+"type":"district",
+"lat":11.0167,
+"lng":106.5000,
+"aliases":["cu chi district"],
+"population":462000,
+"area_km2":435
+},
+{
+"name":"Huyện Cần Giờ",
+"slug":"can-gio",
+"type":"district",
+"lat":10.4110,
+"lng":106.9540,
+"aliases":["can gio district"],
+"population":74000,
+"area_km2":704
+},
+
+{
+"name":"Phường Bến Nghé",
+"slug":"ben-nghe",
+"type":"ward",
+"district_slug":"quan-1",
+"district_name":"Quận 1",
+"lat":10.7771,
+"lng":106.7055,
+"aliases":["ben nghe","phuong ben nghe"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường Bến Thành",
+"slug":"ben-thanh",
+"type":"ward",
+"district_slug":"quan-1",
+"district_name":"Quận 1",
+"lat":10.7726,
+"lng":106.6980,
+"aliases":["ben thanh","phuong ben thanh"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường Nguyễn Thái Bình",
+"slug":"nguyen-thai-binh",
+"type":"ward",
+"district_slug":"quan-1",
+"district_name":"Quận 1",
+"lat":10.7697,
+"lng":106.6991,
+"aliases":["nguyen thai binh"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường Cô Giang",
+"slug":"co-giang",
+"type":"ward",
+"district_slug":"quan-1",
+"district_name":"Quận 1",
+"lat":10.7647,
+"lng":106.6929,
+"aliases":["co giang"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường Cầu Ông Lãnh",
+"slug":"cau-ong-lanh",
+"type":"ward",
+"district_slug":"quan-1",
+"district_name":"Quận 1",
+"lat":10.7621,
+"lng":106.6973,
+"aliases":["cau ong lanh"],
+"population":null,
+"area_km2":null
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q3",
+"type":"ward",
+"district_slug":"quan-3",
+"district_name":"Quận 3",
+"lat":10.7875,
+"lng":106.6872,
+"aliases":["p1 q3","phuong 1 quan 3"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q3",
+"type":"ward",
+"district_slug":"quan-3",
+"district_name":"Quận 3",
+"lat":10.7863,
+"lng":106.6893,
+"aliases":["p2 q3"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q3",
+"type":"ward",
+"district_slug":"quan-3",
+"district_name":"Quận 3",
+"lat":10.7849,
+"lng":106.6861,
+"aliases":["p3 q3"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q3",
+"type":"ward",
+"district_slug":"quan-3",
+"district_name":"Quận 3",
+"lat":10.7829,
+"lng":106.6840,
+"aliases":["p4 q3"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-q3",
+"type":"ward",
+"district_slug":"quan-3",
+"district_name":"Quận 3",
+"lat":10.7820,
+"lng":106.6885,
+"aliases":["p5 q3"],
+"population":null,
+"area_km2":null
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q4",
+"type":"ward",
+"district_slug":"quan-4",
+"district_name":"Quận 4",
+"lat":10.7602,
+"lng":106.7041,
+"aliases":["p1 q4"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q4",
+"type":"ward",
+"district_slug":"quan-4",
+"district_name":"Quận 4",
+"lat":10.7580,
+"lng":106.7073,
+"aliases":["p2 q4"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q4",
+"type":"ward",
+"district_slug":"quan-4",
+"district_name":"Quận 4",
+"lat":10.7560,
+"lng":106.7060,
+"aliases":["p3 q4"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q4",
+"type":"ward",
+"district_slug":"quan-4",
+"district_name":"Quận 4",
+"lat":10.7541,
+"lng":106.7030,
+"aliases":["p4 q4"],
+"population":null,
+"area_km2":null
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q5",
+"type":"ward",
+"district_slug":"quan-5",
+"district_name":"Quận 5",
+"lat":10.7572,
+"lng":106.6618,
+"aliases":["p1 q5"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q5",
+"type":"ward",
+"district_slug":"quan-5",
+"district_name":"Quận 5",
+"lat":10.7560,
+"lng":106.6641,
+"aliases":["p2 q5"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q5",
+"type":"ward",
+"district_slug":"quan-5",
+"district_name":"Quận 5",
+"lat":10.7542,
+"lng":106.6629,
+"aliases":["p3 q5"],
+"population":null,
+"area_km2":null
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q5",
+"type":"ward",
+"district_slug":"quan-5",
+"district_name":"Quận 5",
+"lat":10.7525,
+"lng":106.6648,
+"aliases":["p4 q5"],
+"population":null,
+"area_km2":null
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q6",
+"type":"ward",
+"district_slug":"quan-6",
+"district_name":"Quận 6",
+"lat":10.7513,
+"lng":106.6341,
+"aliases":["p1 q6"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q6",
+"type":"ward",
+"district_slug":"quan-6",
+"district_name":"Quận 6",
+"lat":10.7489,
+"lng":106.6332,
+"aliases":["p2 q6"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q6",
+"type":"ward",
+"district_slug":"quan-6",
+"district_name":"Quận 6",
+"lat":10.7472,
+"lng":106.6364,
+"aliases":["p3 q6"]
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q6",
+"type":"ward",
+"district_slug":"quan-6",
+"district_name":"Quận 6",
+"lat":10.7458,
+"lng":106.6381,
+"aliases":["p4 q6"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-q6",
+"type":"ward",
+"district_slug":"quan-6",
+"district_name":"Quận 6",
+"lat":10.7446,
+"lng":106.6405,
+"aliases":["p5 q6"]
+},
+
+{
+"name":"Phường Tân Thuận Đông",
+"slug":"tan-thuan-dong",
+"type":"ward",
+"district_slug":"quan-7",
+"district_name":"Quận 7",
+"lat":10.7431,
+"lng":106.7356,
+"aliases":["tan thuan dong"]
+},
+{
+"name":"Phường Tân Thuận Tây",
+"slug":"tan-thuan-tay",
+"type":"ward",
+"district_slug":"quan-7",
+"district_name":"Quận 7",
+"lat":10.7451,
+"lng":106.7292,
+"aliases":["tan thuan tay"]
+},
+{
+"name":"Phường Tân Kiểng",
+"slug":"tan-kieng",
+"type":"ward",
+"district_slug":"quan-7",
+"district_name":"Quận 7",
+"lat":10.7372,
+"lng":106.7205,
+"aliases":["tan kieng"]
+},
+{
+"name":"Phường Tân Hưng",
+"slug":"tan-hung",
+"type":"ward",
+"district_slug":"quan-7",
+"district_name":"Quận 7",
+"lat":10.7351,
+"lng":106.7079,
+"aliases":["tan hung"]
+},
+{
+"name":"Phường Bình Thuận",
+"slug":"binh-thuan-q7",
+"type":"ward",
+"district_slug":"quan-7",
+"district_name":"Quận 7",
+"lat":10.7380,
+"lng":106.7263,
+"aliases":["binh thuan q7"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q8",
+"type":"ward",
+"district_slug":"quan-8",
+"district_name":"Quận 8",
+"lat":10.7290,
+"lng":106.6350,
+"aliases":["p1 q8"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q8",
+"type":"ward",
+"district_slug":"quan-8",
+"district_name":"Quận 8",
+"lat":10.7262,
+"lng":106.6338,
+"aliases":["p2 q8"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q8",
+"type":"ward",
+"district_slug":"quan-8",
+"district_name":"Quận 8",
+"lat":10.7245,
+"lng":106.6367,
+"aliases":["p3 q8"]
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q8",
+"type":"ward",
+"district_slug":"quan-8",
+"district_name":"Quận 8",
+"lat":10.7220,
+"lng":106.6389,
+"aliases":["p4 q8"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-q8",
+"type":"ward",
+"district_slug":"quan-8",
+"district_name":"Quận 8",
+"lat":10.7203,
+"lng":106.6400,
+"aliases":["p5 q8"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q10",
+"type":"ward",
+"district_slug":"quan-10",
+"district_name":"Quận 10",
+"lat":10.7705,
+"lng":106.6682,
+"aliases":["p1 q10"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q10",
+"type":"ward",
+"district_slug":"quan-10",
+"district_name":"Quận 10",
+"lat":10.7721,
+"lng":106.6701,
+"aliases":["p2 q10"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q10",
+"type":"ward",
+"district_slug":"quan-10",
+"district_name":"Quận 10",
+"lat":10.7739,
+"lng":106.6725,
+"aliases":["p3 q10"]
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q10",
+"type":"ward",
+"district_slug":"quan-10",
+"district_name":"Quận 10",
+"lat":10.7754,
+"lng":106.6678,
+"aliases":["p4 q10"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-q10",
+"type":"ward",
+"district_slug":"quan-10",
+"district_name":"Quận 10",
+"lat":10.7776,
+"lng":106.6641,
+"aliases":["p5 q10"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-q11",
+"type":"ward",
+"district_slug":"quan-11",
+"district_name":"Quận 11",
+"lat":10.7641,
+"lng":106.6468,
+"aliases":["p1 q11"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-q11",
+"type":"ward",
+"district_slug":"quan-11",
+"district_name":"Quận 11",
+"lat":10.7628,
+"lng":106.6489,
+"aliases":["p2 q11"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-q11",
+"type":"ward",
+"district_slug":"quan-11",
+"district_name":"Quận 11",
+"lat":10.7612,
+"lng":106.6512,
+"aliases":["p3 q11"]
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-q11",
+"type":"ward",
+"district_slug":"quan-11",
+"district_name":"Quận 11",
+"lat":10.7599,
+"lng":106.6530,
+"aliases":["p4 q11"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-q11",
+"type":"ward",
+"district_slug":"quan-11",
+"district_name":"Quận 11",
+"lat":10.7585,
+"lng":106.6551,
+"aliases":["p5 q11"]
+},
+
+{
+"name":"Phường An Phú Đông",
+"slug":"an-phu-dong",
+"type":"ward",
+"district_slug":"quan-12",
+"district_name":"Quận 12",
+"lat":10.8674,
+"lng":106.7083,
+"aliases":["an phu dong"]
+},
+{
+"name":"Phường Đông Hưng Thuận",
+"slug":"dong-hung-thuan",
+"type":"ward",
+"district_slug":"quan-12",
+"district_name":"Quận 12",
+"lat":10.8589,
+"lng":106.6275,
+"aliases":["dong hung thuan"]
+},
+{
+"name":"Phường Hiệp Thành",
+"slug":"hiep-thanh-q12",
+"type":"ward",
+"district_slug":"quan-12",
+"district_name":"Quận 12",
+"lat":10.8645,
+"lng":106.6458,
+"aliases":["hiep thanh q12"]
+},
+{
+"name":"Phường Tân Chánh Hiệp",
+"slug":"tan-chanh-hiep",
+"type":"ward",
+"district_slug":"quan-12",
+"district_name":"Quận 12",
+"lat":10.8601,
+"lng":106.6289,
+"aliases":["tan chanh hiep"]
+},
+{
+"name":"Phường Thạnh Xuân",
+"slug":"thanh-xuan-q12",
+"type":"ward",
+"district_slug":"quan-12",
+"district_name":"Quận 12",
+"lat":10.8804,
+"lng":106.6620,
+"aliases":["thanh xuan q12"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-binh-thanh",
+"type":"ward",
+"district_slug":"binh-thanh",
+"district_name":"Bình Thạnh",
+"lat":10.8061,
+"lng":106.7048,
+"aliases":["p1 binh thanh"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-binh-thanh",
+"type":"ward",
+"district_slug":"binh-thanh",
+"district_name":"Bình Thạnh",
+"lat":10.8040,
+"lng":106.7063,
+"aliases":["p2 binh thanh"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-binh-thanh",
+"type":"ward",
+"district_slug":"binh-thanh",
+"district_name":"Bình Thạnh",
+"lat":10.8024,
+"lng":106.7075,
+"aliases":["p3 binh thanh"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-binh-thanh",
+"type":"ward",
+"district_slug":"binh-thanh",
+"district_name":"Bình Thạnh",
+"lat":10.8002,
+"lng":106.7080,
+"aliases":["p5 binh thanh"]
+},
+{
+"name":"Phường 7",
+"slug":"phuong-7-binh-thanh",
+"type":"ward",
+"district_slug":"binh-thanh",
+"district_name":"Bình Thạnh",
+"lat":10.7990,
+"lng":106.7096,
+"aliases":["p7 binh thanh"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-tan-binh",
+"type":"ward",
+"district_slug":"tan-binh",
+"district_name":"Tân Bình",
+"lat":10.8005,
+"lng":106.6602,
+"aliases":["p1 tan binh"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-tan-binh",
+"type":"ward",
+"district_slug":"tan-binh",
+"district_name":"Tân Bình",
+"lat":10.7991,
+"lng":106.6580,
+"aliases":["p2 tan binh"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-tan-binh",
+"type":"ward",
+"district_slug":"tan-binh",
+"district_name":"Tân Bình",
+"lat":10.7980,
+"lng":106.6559,
+"aliases":["p3 tan binh"]
+},
+{
+"name":"Phường 4",
+"slug":"phuong-4-tan-binh",
+"type":"ward",
+"district_slug":"tan-binh",
+"district_name":"Tân Bình",
+"lat":10.7963,
+"lng":106.6541,
+"aliases":["p4 tan binh"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-tan-binh",
+"type":"ward",
+"district_slug":"tan-binh",
+"district_name":"Tân Bình",
+"lat":10.7951,
+"lng":106.6520,
+"aliases":["p5 tan binh"]
+},
+
+{
+"name":"Phường Tân Sơn Nhì",
+"slug":"tan-son-nhi",
+"type":"ward",
+"district_slug":"tan-phu",
+"district_name":"Tân Phú",
+"lat":10.7934,
+"lng":106.6282,
+"aliases":["tan son nhi"]
+},
+{
+"name":"Phường Tây Thạnh",
+"slug":"tay-thanh",
+"type":"ward",
+"district_slug":"tan-phu",
+"district_name":"Tân Phú",
+"lat":10.8011,
+"lng":106.6179,
+"aliases":["tay thanh"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-go-vap",
+"type":"ward",
+"district_slug":"go-vap",
+"district_name":"Gò Vấp",
+"lat":10.8384,
+"lng":106.6701,
+"aliases":["p1 go vap"]
+},
+{
+"name":"Phường 3",
+"slug":"phuong-3-go-vap",
+"type":"ward",
+"district_slug":"go-vap",
+"district_name":"Gò Vấp",
+"lat":10.8362,
+"lng":106.6731,
+"aliases":["p3 go vap"]
+},
+{
+"name":"Phường 5",
+"slug":"phuong-5-go-vap",
+"type":"ward",
+"district_slug":"go-vap",
+"district_name":"Gò Vấp",
+"lat":10.8341,
+"lng":106.6750,
+"aliases":["p5 go vap"]
+},
+
+{
+"name":"Phường 1",
+"slug":"phuong-1-phu-nhuan",
+"type":"ward",
+"district_slug":"phu-nhuan",
+"district_name":"Phú Nhuận",
+"lat":10.7992,
+"lng":106.6841,
+"aliases":["p1 phu nhuan"]
+},
+{
+"name":"Phường 2",
+"slug":"phuong-2-phu-nhuan",
+"type":"ward",
+"district_slug":"phu-nhuan",
+"district_name":"Phú Nhuận",
+"lat":10.7978,
+"lng":106.6823,
+"aliases":["p2 phu nhuan"]
+},
+
+{
+"name":"Phường Bình Hưng Hòa",
+"slug":"binh-hung-hoa",
+"type":"ward",
+"district_slug":"binh-tan",
+"district_name":"Bình Tân",
+"lat":10.7711,
+"lng":106.5922,
+"aliases":["binh hung hoa"]
+},
+{
+"name":"Phường Bình Trị Đông",
+"slug":"binh-tri-dong",
+"type":"ward",
+"district_slug":"binh-tan",
+"district_name":"Bình Tân",
+"lat":10.7682,
+"lng":106.6043,
+"aliases":["binh tri dong"]
+},
+
+{
+"name":"Phường Thảo Điền",
+"slug":"thao-dien",
+"type":"ward",
+"district_slug":"thu-duc",
+"district_name":"TP Thủ Đức",
+"lat":10.8047,
+"lng":106.7400,
+"aliases":["thao dien"]
+},
+{
+"name":"Phường An Phú",
+"slug":"an-phu",
+"type":"ward",
+"district_slug":"thu-duc",
+"district_name":"TP Thủ Đức",
+"lat":10.7873,
+"lng":106.7445,
+"aliases":["an phu thu duc"]
+},
+{
+"name":"Phường An Khánh",
+"slug":"an-khanh",
+"type":"ward",
+"district_slug":"thu-duc",
+"district_name":"TP Thủ Đức",
+"lat":10.7826,
+"lng":106.7358,
+"aliases":["an khanh thu duc"]
+},
+{
+"name":"Phường Linh Trung",
+"slug":"linh-trung",
+"type":"ward",
+"district_slug":"thu-duc",
+"district_name":"TP Thủ Đức",
+"lat":10.8716,
+"lng":106.7802,
+"aliases":["linh trung"]
+},
+{
+"name":"Phường Linh Xuân",
+"slug":"linh-xuan",
+"type":"ward",
+"district_slug":"thu-duc",
+"district_name":"TP Thủ Đức",
+"lat":10.8861,
+"lng":106.7702,
+"aliases":["linh xuan"]
+},
+
+{
+"name":"Thị trấn Nhà Bè",
+"slug":"thi-tran-nha-be",
+"type":"town",
+"district_slug":"nha-be",
+"district_name":"Nhà Bè",
+"lat":10.6955,
+"lng":106.7310,
+"aliases":["nha be town"]
+},
+
+{
+"name":"Thị trấn Tân Túc",
+"slug":"tan-tuc",
+"type":"town",
+"district_slug":"binh-chanh",
+"district_name":"Bình Chánh",
+"lat":10.6910,
+"lng":106.5732,
+"aliases":["tan tuc"]
+},
+
+{
+"name":"Thị trấn Hóc Môn",
+"slug":"hoc-mon-town",
+"type":"town",
+"district_slug":"hoc-mon",
+"district_name":"Hóc Môn",
+"lat":10.8892,
+"lng":106.5930,
+"aliases":["hoc mon town"]
+},
+
+{
+"name":"Thị trấn Củ Chi",
+"slug":"cu-chi-town",
+"type":"town",
+"district_slug":"cu-chi",
+"district_name":"Củ Chi",
+"lat":11.0155,
+"lng":106.4930,
+"aliases":["cu chi town"]
+},
+
+{
+"name":"Thị trấn Cần Thạnh",
+"slug":"can-thanh",
+"type":"town",
+"district_slug":"can-gio",
+"district_name":"Cần Giờ",
+"lat":10.4111,
+"lng":106.9545,
+"aliases":["can thanh"]
+}
+
+]

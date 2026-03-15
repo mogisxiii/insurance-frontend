@@ -1,0 +1,152 @@
+[
+{
+"rank":1,
+"district":"TP Thủ Đức",
+"ward":"Thảo Điền",
+"slug":"thao-dien",
+"price_2000":2000000,
+"price_2025":200000000,
+"growth_multiple":100,
+"growth_percent":9900
+},
+{
+"rank":2,
+"district":"Quận 7",
+"ward":"Tân Phong",
+"slug":"tan-phong",
+"price_2000":2000000,
+"price_2025":150000000,
+"growth_multiple":75,
+"growth_percent":7400
+},
+{
+"rank":3,
+"district":"TP Thủ Đức",
+"ward":"An Phú",
+"slug":"an-phu",
+"price_2000":1500000,
+"price_2025":180000000,
+"growth_multiple":120,
+"growth_percent":11900
+},
+{
+"rank":4,
+"district":"Bình Thạnh",
+"ward":"Phường 22",
+"slug":"p22-binh-thanh",
+"price_2000":3000000,
+"price_2025":160000000,
+"growth_multiple":53,
+"growth_percent":5200
+},
+{
+"rank":5,
+"district":"Quận 1",
+"ward":"Bến Nghé",
+"slug":"ben-nghe",
+"price_2000":12000000,
+"price_2025":420000000,
+"growth_multiple":35,
+"growth_percent":3400
+},
+{
+"rank":6,
+"district":"Quận 7",
+"ward":"Tân Phú",
+"slug":"tan-phu-q7",
+"price_2000":1800000,
+"price_2025":140000000,
+"growth_multiple":77,
+"growth_percent":7600
+},
+{
+"rank":7,
+"district":"TP Thủ Đức",
+"ward":"Linh Trung",
+"slug":"linh-trung",
+"price_2000":900000,
+"price_2025":90000000,
+"growth_multiple":100,
+"growth_percent":9900
+},
+{
+"rank":8,
+"district":"Gò Vấp",
+"ward":"Phường 7",
+"slug":"p7-go-vap",
+"price_2000":1200000,
+"price_2025":100000000,
+"growth_multiple":83,
+"growth_percent":8200
+},
+{
+"rank":9,
+"district":"Tân Bình",
+"ward":"Phường 2",
+"slug":"p2-tan-binh",
+"price_2000":2500000,
+"price_2025":130000000,
+"growth_multiple":52,
+"growth_percent":5100
+},
+{
+"rank":10,
+"district":"Bình Tân",
+"ward":"Bình Trị Đông",
+"slug":"binh-tri-dong",
+"price_2000":800000,
+"price_2025":80000000,
+"growth_multiple":100,
+"growth_percent":9900
+},
+{
+"rank":11,
+"district":"Quận 3",
+"ward":"Phường 6",
+"slug":"p6-q3",
+"price_2000":7000000,
+"price_2025":260000000,
+"growth_multiple":37,
+"growth_percent":3600
+},
+{
+"rank":12,
+"district":"Quận 12",
+"ward":"Hiệp Thành",
+"slug":"hiep-thanh-q12",
+"price_2000":600000,
+"price_2025":65000000,
+"growth_multiple":108,
+"growth_percent":10700
+},
+{
+"rank":13,
+"district":"Hóc Môn",
+"ward":"Thị trấn Hóc Môn",
+"slug":"hoc-mon-town",
+"price_2000":400000,
+"price_2025":50000000,
+"growth_multiple":125,
+"growth_percent":12400
+},
+{
+"rank":14,
+"district":"Củ Chi",
+"ward":"Thị trấn Củ Chi",
+"slug":"cu-chi-town",
+"price_2000":250000,
+"price_2025":40000000,
+"growth_multiple":160,
+"growth_percent":15900
+},
+{
+"rank":15,
+"district":"Cần Giờ",
+"ward":"Cần Thạnh",
+"slug":"can-thanh",
+"price_2000":150000,
+"price_2025":30000000,
+"growth_multiple":200,
+"growth_percent":19900
+}
+]
